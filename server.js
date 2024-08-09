@@ -26,7 +26,7 @@ app.use(
   cors({
     origin: [
       "https://localhost:3000",
-      "https://anniversary-backend.onrender.com",
+      "https://anniversary-preview-backend.onrender.com",
     ],
   })
 );
